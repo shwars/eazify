@@ -5,9 +5,8 @@ show_downloads: false
 google_analytics: UA-37948729-2
 yandex_metrika: 67488091
 theme: jekyll-theme-minimal
-
 permalink: /:slug/
-
+repository: shwars/eazify
 plugins:
   - jekyll-redirect-from
 
