@@ -1,5 +1,5 @@
 ---
 title: Yandex Agent Code Webinar
-redirect_to: https://yandex.cloud/ru/events/1117
+redirect_to: https://disk.yandex.ru/i/s8bFk9oa_V_-7g
 category: Webinars
 ---
